@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\WPF_22\WPF_22\bin\Debug\WPF_22.exe.config
+C:\Users\HP\source\repos\WPF_22\WPF_22\bin\Debug\WPF_22.exe
+C:\Users\HP\source\repos\WPF_22\WPF_22\bin\Debug\WPF_22.pdb
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\MainWindow.g.cs
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\App.g.cs
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22_MarkupCompile.cache
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22_MarkupCompile.lref
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\MainWindow.baml
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.g.resources
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.Properties.Resources.resources
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.exe
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\WPF_22.pdb
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\Window1.g.cs
+C:\Users\HP\source\repos\WPF_22\WPF_22\obj\Debug\Window1.baml
